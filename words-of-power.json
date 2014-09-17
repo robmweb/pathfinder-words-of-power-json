@@ -1,5 +1,5 @@
 [ {
-	"name" : "Accelerate",
+	"name" : "Accelerate (time)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "alchemist 2, bard 2, magus 2, sorcerer/wizard 2, summoner 2",
@@ -11,7 +11,7 @@
 	"boost" : ["If the target takes a full-attack action, it can, instead of taking an extra move action, make one additional attack at its highest attack bonus."]
 },
 {
-	"name" : "Acid Burn",
+	"name" : "Acid Burn (acid)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation) [acid]",
 	"level" : "druid 0, inquisitor 0, magus 0, sorcerer/wizard 0, summoner 0",
@@ -23,7 +23,7 @@
 	"boost" : []
 },
 {
-	"name" : "Acid Wave",
+	"name" : "Acid Wave (acid)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation) [acid]",
 	"level" : "magus 4, sorcerer/wizard 4",
@@ -35,7 +35,7 @@
 	"boost" : []
 },
 {
-	"name" : "Alignment Assault",
+	"name" : "Alignment Assault (alignment)",
 	"wordType" : "effect",
 	"school" : "evocation",
 	"level" : "cleric/oracle 5, inquisitor 5, paladin 4",
@@ -47,7 +47,7 @@
 	"boost" : []
 },
 {
-	"name" : "Alignment Aura",
+	"name" : "Alignment Aura (alignment)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "cleric/oracle 8",
@@ -59,7 +59,7 @@
 	"boost" : []
 },
 {
-	"name" : "Alignment Shield",
+	"name" : "Alignment Shield (alignment)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "cleric/oracle 1, inquisitor 1, paladin 1 sorcerer/wizard 1",
@@ -71,7 +71,7 @@
 	"boost" : []
 },
 {
-	"name" : "Altered Form",
+	"name" : "Altered Form (change)",
 	"wordType" : "effect",
 	"school" : "transmutation (polymorph)",
 	"level" : "alchemist 3, druid 3, magus 3, sorcerer/wizard 3, witch 3",
@@ -83,7 +83,7 @@
 	"boost" : ["The target receives three benefits instead of two.", "This wordspell can use the Selected target word. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Ball Lightning",
+	"name" : "Ball Lightning (electricity)",
 	"wordType" : "effect",
 	"school" : "evocation [electricity]",
 	"level" : "druid 5, magus 5, sorcerer/wizard 5, witch 6",
@@ -95,7 +95,7 @@
 	"boost" : []
 },
 {
-	"name" : "Beacon",
+	"name" : "Beacon (divination)",
 	"wordType" : "effect",
 	"school" : "divination",
 	"level" : "bard 0, druid 0, ranger 1",
@@ -107,7 +107,7 @@
 	"boost" : []
 },
 {
-	"name" : "Bestial Form",
+	"name" : "Bestial Form (change)",
 	"wordType" : "effect",
 	"school" : "transmutation (polymorph)",
 	"level" : "alchemist 4, druid 4, magus 4, sorcerer/wizard 4",
@@ -119,7 +119,7 @@
 	"boost" : ["The target receives four benefits instead of three.", "This wordspell can use the Selected target word. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Blade Wall",
+	"name" : "Blade Wall (wall)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation)",
 	"level" : "cleric/oracle 6, summoner 5",
@@ -131,7 +131,7 @@
 	"boost" : []
 },
 {
-	"name" : "Bleeding Wounds",
+	"name" : "Bleeding Wounds (wounding)",
 	"wordType" : "effect",
 	"school" : "necromancy",
 	"level" : "cleric/oracle 0, inquisitor 0, sorcerer/wizard 0, witch 0",
@@ -143,7 +143,7 @@
 	"boost" : ["The target of a wordspell with this effect takes 1d3 hit points of bleed damage. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Blind",
+	"name" : "Blind (power)",
 	"wordType" : "effect",
 	"school" : "enchantment (compulsion) [mind-affecting]",
 	"level" : "sorcerer/wizard 7",
@@ -155,7 +155,7 @@
 	"boost" : []
 },
 {
-	"name" : "Blizzard",
+	"name" : "Blizzard (weather)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation)",
 	"level" : "druid 3, magus 3, sorcerer/wizard 3, witch 3",
@@ -167,7 +167,7 @@
 	"boost" : ["Each creature in the area of effect takes 2d6 points of cold damage each round at the end of its turn. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Borrow Future",
+	"name" : "Borrow Future (time)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "alchemist 4, bard 4, magus 4, sorcerer/wizard 4, summoner 4",
@@ -179,7 +179,7 @@
 	"boost" : ["Instead of losing its next turn, the target of a wordspell with this effect word is staggered on its next turn."]
 },
 {
-	"name" : "Burning Flash",
+	"name" : "Burning Flash (fire)",
 	"wordType" : "effect",
 	"school" : "evocation [fire]",
 	"level" : "druid 2, inquisitor 2, magus 1, sorcerer/wizard 1, witch 1",
@@ -191,7 +191,7 @@
 	"boost" : [" This spell does 1d6 points of fire damage per caster level, maximum 5d6. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Catastrophe",
+	"name" : "Catastrophe (destruction)",
 	"wordType" : "effect",
 	"school" : "evocation [air]",
 	"level" : "cleric/oracle 9, druid 9, witch 9",
@@ -203,7 +203,7 @@
 	"boost" : []
 },
 {
-	"name" : "Caustic Cloud",
+	"name" : "Caustic Cloud (acid)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation) [acid]",
 	"level" : "sorcerer/wizard 7, witch 6",
@@ -215,7 +215,7 @@
 	"boost" : []
 },
 {
-	"name" : "Cinder Storm ",
+	"name" : "Cinder Storm (fire)",
 	"wordType" : "effect",
 	"school" : "evocation [fire]",
 	"level" : "cleric/oracle 5, druid 5, inquisitor 5, magus 5, sorcerer/wizard 5, summoner 5",
@@ -227,7 +227,7 @@
 	"boost" : []
 },
 {
-	"name" : "Cold Snap",
+	"name" : "Cold Snap (cold)",
 	"wordType" : "effect",
 	"school" : "evocation [cold]",
 	"level" : "druid 0, magus 0, sorcerer/wizard 0",
@@ -239,7 +239,7 @@
 	"boost" : []
 },
 {
-	"name" : "Complex Order",
+	"name" : "Complex Order (command)",
 	"wordType" : "effect",
 	"school" : "enchantment (compulsion) [language-dependent, mind affecting]",
 	"level" : "bard 3, sorcerer/wizard 3, witch 4",
@@ -251,7 +251,7 @@
 	"boost" : []
 },
 {
-	"name" : "Control Time",
+	"name" : "Control Time (time)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "sorcerer/wizard 9",
@@ -263,7 +263,7 @@
 	"boost" : []
 },
 {
-	"name" : "Corrosive Bolt",
+	"name" : "Corrosive Bolt (acid)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation) [acid]",
 	"level" : "magus 2, sorcerer/wizard 2",
@@ -275,7 +275,7 @@
 	"boost" : []
 },
 {
-	"name" : "Cramp",
+	"name" : "Cramp (pain)",
 	"wordType" : "effect",
 	"school" : "necromancy",
 	"level" : "bard 0, cleric/oracle 0, inquisitor 0, sorcerer/wizard 0, witch 0",
@@ -287,7 +287,7 @@
 	"boost" : []
 },
 {
-	"name" : "Crush Will",
+	"name" : "Crush Will (command)",
 	"wordType" : "effect",
 	"school" : "enchantment (compulsion) [language-dependent; mind-affecting]",
 	"level" : "bard 4, sorcerer/wizard 5, witch 5",
@@ -299,7 +299,7 @@
 	"boost" : []
 },
 {
-	"name" : "Damage",
+	"name" : "Damage (destruction)",
 	"wordType" : "effect",
 	"school" : "evocation",
 	"level" : "bard 3, cleric/oracle 3, sorcerer/wizard 2",
@@ -311,7 +311,7 @@
 	"boost" : []
 },
 {
-	"name" : "Dash",
+	"name" : "Dash (time)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, summoner 1",
@@ -323,7 +323,7 @@
 	"boost" : []
 },
 {
-	"name" : "Decelerate",
+	"name" : "Decelerate (time)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "bard 2, magus 2, sorcerer/wizard 2, summoner 2",
@@ -335,7 +335,7 @@
 	"boost" : ["The target of a wordspell with this effect word does not receive any additional saving throws to end the effect. If the target fails the first saving throw, it is staggered for the entire duration."]
 },
 {
-	"name" : "Decipher",
+	"name" : "Decipher (language)",
 	"wordType" : "effect",
 	"school" : "divination",
 	"level" : "alchemist 1, bard 0, cleric/oracle 0, druid 0, inquisitor 0, magus 0, paladin 1, ranger 1, sorcerer/wizard 0, summoner 0, witch 0",
@@ -347,7 +347,7 @@
 	"boost" : ["This effect word can use the selected target word. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Destructive Vibration",
+	"name" : "Destructive Vibration (sonic)",
 	"wordType" : "effect",
 	"school" : "evocation [sonic]",
 	"level" : "bard 6, sorcerer/wizard 7",
@@ -359,7 +359,7 @@
 	"boost" : []
 },
 {
-	"name" : "Dimensional Gate",
+	"name" : "Dimensional Gate (teleportation)",
 	"wordType" : "effect",
 	"school" : "conjuration (teleportation)",
 	"level" : "cleric/oracle 8, sorcerer/wizard 9",
@@ -371,7 +371,7 @@
 	"boost" : []
 },
 {
-	"name" : "Dimensional Hop",
+	"name" : "Dimensional Hop (teleportation)",
 	"wordType" : "effect",
 	"school" : "conjuration (teleportation)",
 	"level" : "bard 3, magus 3, sorcerer/wizard 3, summoner 3, witch 3",
@@ -383,7 +383,7 @@
 	"boost" : []
 },
 {
-	"name" : "Dimensional Jump",
+	"name" : "Dimensional Jump (teleportation)",
 	"wordType" : "effect",
 	"school" : "conjuration (teleportation)",
 	"level" : "magus 5, sorcerer/wizard 5, summoner 5, witch 5",
@@ -395,7 +395,7 @@
 	"boost" : []
 },
 {
-	"name" : "Dimensional Shift",
+	"name" : "Dimensional Shift (teleportation)",
 	"wordType" : "effect",
 	"school" : "conjuration (teleportation)",
 	"level" : "cleric/oracle 5, sorcerer/wizard 7, witch 7",
@@ -407,7 +407,7 @@
 	"boost" : []
 },
 {
-	"name" : "Disappear",
+	"name" : "Disappear (concealing)",
 	"wordType" : "effect",
 	"school" : "illusion (glamer)",
 	"level" : "alchemist 2, bard 2, inquisitor 2, magus 2, sorcerer/wizard 2, summoner 2, witch 2",
@@ -419,7 +419,7 @@
 	"boost" : ["The target does not become visible if it attacks or takes an offensive action. Boosting this effect word increases its level by 2."]
 },
 {
-	"name" : "Discordant Note",
+	"name" : "Discordant Note (sonic)",
 	"wordType" : "effect",
 	"school" : "evocation [sonic]",
 	"level" : "bard 2, cleric/oracle 2, magus 2",
@@ -431,7 +431,7 @@
 	"boost" : []
 },
 {
-	"name" : "Echo",
+	"name" : "Echo (illusion)",
 	"wordType" : "effect",
 	"school" : "illusion (figment)",
 	"level" : "bard 0, sorcerer/wizard 0",
@@ -443,7 +443,7 @@
 	"boost" : []
 },
 {
-	"name" : "Elder Cure",
+	"name" : "Elder Cure (healing)",
 	"wordType" : "effect",
 	"school" : "conjuration (healing)",
 	"level" : "alchemist 4, bard 4, cleric/oracle 4, druid 5, inquisitor 4, witch 5",
@@ -455,7 +455,7 @@
 	"boost" : ["The target is cured of 4d8 points of damage + 1 point per caster level (maximum +20)."]
 },
 {
-	"name" : "Elder Wound",
+	"name" : "Elder Wound (wounding)",
 	"wordType" : "effect",
 	"school" : "necromancy",
 	"level" : "cleric/oracle 4, inquisitor 4, witch 4",
@@ -467,7 +467,7 @@
 	"boost" : ["The target takes of 4d8 points of damage + 1 point per caster level (maximum +20)."]
 },
 {
-	"name" : "Energy Immunity",
+	"name" : "Energy Immunity (body)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "alchemist 6, cleric/oracle 6, druid 6, inquisitor 6, sorcerer/wizard 6, summoner 6",
@@ -479,7 +479,7 @@
 	"boost" : []
 },
 {
-	"name" : "Energy Resistance",
+	"name" : "Energy Resistance (body)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "alchemist 2, cleric/oracle 2, druid 2, inquisitor 2, paladin 2, ranger 2, sorcerer/wizard 2, summoner 2",
@@ -491,7 +491,7 @@
 	"boost" : ["The target gains resistance 20 to one energy type."]
 },
 {
-	"name" : "Enhance Form",
+	"name" : "Enhance Form (body)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "alchemist 2, bard 2, cleric/oracle 2, druid 2, magus 2, paladin 2, ranger 2, sorcerer/wizard 2, summoner 2",
@@ -503,7 +503,7 @@
 	"boost" : []
 },
 {
-	"name" : "Fade",
+	"name" : "Fade (concealing)",
 	"wordType" : "effect",
 	"school" : "illusion (glamer)",
 	"level" : "alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1",
@@ -515,7 +515,7 @@
 	"boost" : ["The target does not become visible if it attacks or takes an offensive action."]
 },
 {
-	"name" : "Far Casting",
+	"name" : "Far Casting (language)",
 	"wordType" : "effect",
 	"school" : "divination",
 	"level" : "bard 5, cleric/oracle 5, sorcerer/wizard 5, witch 5",
@@ -527,7 +527,7 @@
 	"boost" : ["This word can use the selected target word. Boosting this effect word increases its level by 1."]
 },
 {
-	"name" : "Far Sight",
+	"name" : "Far Sight (divination)",
 	"wordType" : "effect",
 	"school" : "divination (scrying)",
 	"level" : "bard 3, cleric/oracle 3, druid 3, sorcerer/wizard 3, witch 3",
@@ -539,7 +539,7 @@
 	"boost" : ["This sensor can be placed anywhere on the same plane of existence as the caster, with no limit to range. The caster can place it to within 10 feet of a creature that is known to the caster, but the target gets a Will save to negate the effect in this case and the caster must overcome the target's spell resistance. Boosting this effect word increases its level by 2."]
 },
 {
-	"name" : "Fire Blast",
+	"name" : "Fire Blast (fire)",
 	"wordType" : "effect",
 	"school" : "evocation [fire]",
 	"level" : "magus 3, sorcerer/wizard 3",
@@ -551,7 +551,7 @@
 	"boost" : []
 },
 {
-	"name" : "Fire Wall",
+	"name" : "Fire Wall (wall)",
 	"wordType" : "effect",
 	"school" : "evocation [fire]",
 	"level" : "druid 4, magus 4, sorcerer/wizard 4, summoner 4",
@@ -563,7 +563,7 @@
 	"boost" : []
 },
 {
-	"name" : "Flame Jet",
+	"name" : "Flame Jet (fire)",
 	"wordType" : "effect",
 	"school" : "evocation [fire]",
 	"level" : "druid 0, magus 0, sorcerer/wizard 0",
@@ -575,7 +575,7 @@
 	"boost" : []
 },
 {
-	"name" : "Fleet",
+	"name" : "Fleet (time)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "druid 1, ranger 1",
@@ -587,7 +587,7 @@
 	"boost" : []
 },
 {
-	"name" : "Float",
+	"name" : "Float (flight)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "alchemist 2, bard 2, magus 2, sorcerer/wizard 2, summoner 2, witch 2",
@@ -599,7 +599,7 @@
 	"boost" : []
 },
 {
-	"name" : "Fog Bank",
+	"name" : "Fog Bank (weather)",
 	"wordType" : "effect",
 	"school" : "conjuration (creation)",
 	"level" : "cleric/oracle 1, druid 1, sorcerer/wizard 1, witch 1",
@@ -611,7 +611,7 @@
 	"boost" : ["If a wordspell with this effect word uses the burst target word, it can be directed to move up to 10 feet each round by the caster as a swift action."]
 },
 {
-	"name" : "Force Armor",
+	"name" : "Force Armor (armor)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "cleric/oracle 3, magus 3, sorcerer/wizard 3, witch 3",
@@ -623,7 +623,7 @@
 	"boost" : []
 },
 {
-	"name" : "Force Blast",
+	"name" : "Force Blast (force)",
 	"wordType" : "effect",
 	"school" : "evocation [force]",
 	"level" : "magus 5, sorcerer/wizard 5",
@@ -635,7 +635,7 @@
 	"boost" : []
 },
 {
-	"name" : "Force Block",
+	"name" : "Force Block (armor)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "cleric/oracle 0, magus 0, sorcerer/wizard 0, summoner 0",
@@ -647,7 +647,7 @@
 	"boost" : ["A wordspell with this effect word can be cast as an immediate action. In this case, the effect lasts until the end of your next turn. This boost cannot be used if the wordspell includes another effect word (unless that word can also be cast as an immediate action). This boost increases this effect word's level by 1."]
 },
 {
-	"name" : "Force Bolt",
+	"name" : "Force Bolt (force)",
 	"wordType" : "effect",
 	"school" : "evocation [force]",
 	"level" : "magus 2, sorcerer/wizard 2",
@@ -659,7 +659,7 @@
 	"boost" : []
 },
 {
-	"name" : "Force Shield",
+	"name" : "Force Shield (armor)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "alchemist 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1",
@@ -671,7 +671,7 @@
 	"boost" : []
 },
 {
-	"name" : "Force Ward",
+	"name" : "Force Ward (armor)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "magus 6, sorcerer/wizard 6",
@@ -683,7 +683,7 @@
 	"boost" : []
 },
 {
-	"name" : "Fortify",
+	"name" : "Fortify (body)",
 	"wordType" : "effect",
 	"school" : "abjuration",
 	"level" : "alchemist 1, cleric/oracle 1, inquisitor 1, paladin 1, ranger 1, sorcerer/wizard 1, summoner 1",
@@ -695,7 +695,7 @@
 	"boost" : []
 },
 {
-	"name" : "Friendship",
+	"name" : "Friendship (command)",
 	"wordType" : "effect",
 	"school" : "enchantment (charm) [mind-affecting]",
 	"level" : "bard 1, sorcerer/wizard 1, witch 1",
@@ -707,7 +707,7 @@
 	"boost" : []
 },
 {
-	"name" : "Frost Fingers",
+	"name" : "Frost Fingers (cold)",
 	"wordType" : "effect",
 	"school" : "evocation [cold]",
 	"level" : "druid 2, magus 2, sorcerer/wizard 2",
@@ -719,7 +719,7 @@
 	"boost" : []
 },
 {
-	"name" : "Glide",
+	"name" : "Glide (flight)",
 	"wordType" : "effect",
 	"school" : "transmutation",
 	"level" : "alchemist 1, bard 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1",
@@ -731,7 +731,7 @@
 	"boost" : []
 },
 {
-	"name" : "Glimmering",
+	"name" : "Glimmering (illusion)",
 	"wordType" : "effect",
 	"school" : "illusion (figment)",
 	"level" : "bard 2, sorcerer/wizard 3",
@@ -743,7 +743,7 @@
 	"boost" : []
 },
 {
-	"name" : "Gloom",
+	"name" : "Gloom (illumination)",
 	"wordType" : "effect",
 	"school" : "evocation",
 	"level" : "bard 2, cleric/oracle 2, magus 2, sorcerer/wizard 2, witch 2",
@@ -755,7 +755,7 @@
 	"boost" : []
 },
 {
-	"name" : "Grave Bane",
+	"name" : "Grave Bane (death)",
 	"wordType" : "effect",
 	"school" : "necromancy",
 	"level" : "cleric/oracle 4, druid 5, inquisitor 5, paladin 4",
@@ -767,7 +767,7 @@
 	"boost" : []
 },
 {
-	"name" : "Greater Cure",
+	"name" : "Greater Cure (healing)",
 	"wordType" : "effect",
 	"school" : "conjuration (healing)",
 	"level" : "alchemist 3, bard 3, cleric/oracle 3, druid 4, inquisitor 3, paladin 4, ranger 4, witch 4",
@@ -779,7 +779,7 @@
 	"boost" : ["The target is cured of 3d8 points of damage + 1 point per caster level (maximum +15)."]
 },
 {
-	"name" : "Greater Wound",
+	"name" : "Greater Wound (wounding)",
 	"wordType" : "effect",
 	"school" : "necromancy",
 	"level" : "cleric/oracle 3, inquisitor 3, witch 3",
@@ -791,7 +791,7 @@
 	"boost" : ["The target takes 3d8 points of damage + 1 point per caster level (maximum +15)."]
 },
 {
-	"name" : "Horror",
+	"name" : "Horror (fear)",
 	"wordType" : "effect",
 	"school" : "necromancy [fear, mind-affecting]",
 	"level" : "sorcerer/wizard 7, witch 7",
@@ -803,7 +803,7 @@
 	"boost" : []
 },
 {
-	"name" : "Ice Blast",
+	"name" : "Ice Blast (cold)",
 	"wordType" : "effect",
 	"school" : "transmutation [cold]",
 	"level" : "druid 4, magus 4, sorcerer/wizard 4, witch 4",
@@ -815,7 +815,7 @@
 	"boost" : []
 },
 {
-	"name" : "Ice Wall",
+	"name" : "Ice Wall (wall)",
 	"wordType" : "effect",
 	"school" : "evocation [cold]",
 	"level" : "druid 4, magus 4, sorcerer/wizard 4, summoner 4",
@@ -827,7 +827,7 @@
 	"boost" : []
 },
 {
-	"name" : "Inferno",
+	"name" : "Inferno (fire)",
 	"wordType" : "effect",
 	"school" : "evocation [fire]",
 	"level" : "druid 8, sorcerer/wizard 8",
@@ -839,7 +839,7 @@
 	"boost" : []
 },
 {
-	"name" : "Kill",
+	"name" : "Kill (power)",
 	"wordType" : "effect",
 	"school" : "enchantment (compulsion) [death, mind-affecting]",
 	"level" : "sorcerer/wizard 9",
@@ -851,158 +851,794 @@
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Lesser Cure (healing)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
+	"school" : "conjuration (healing)",
+	"level" : "alchemist 1, bard 1, cleric/oracle 1, druid 1, inquisitor 1, paladin 1, ranger 2, witch 1",
+	"duration" : "instantaneous",
+	"savingThrow" : "Will half (harmless) or Will half",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Personal, Selected",
+	"description" : "The target of a wordspell with this effect word is cured of 1d6 points of damage + 1 point per caster level (maximum +5). Undead are damaged by this effect word instead, but can attempt a Will save for half damage and spell resistance as normal.",
+	"boost" : ["The target is cured of 1d8 points of damage + 1 point per caster level (maximum +5)"]
+},
+{
+	"name" : "Lesser Wound (wounding)",
+	"wordType" : "effect",
+	"school" : "necromancy",
+	"level" : "cleric/oracle 1, inquisitor 1, witch 1",
+	"duration" : "instantaneous",
+	"savingThrow" : "Will half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word takes 1d6 points of damage + 1 point per wordcaster level (maximum +5). Undead are instead healed by this effect and do not receive a saving throw or spell resistance.",
+	"boost" : ["The target of a wordspell with this effect takes 1d8 points of damage + 1 point per wordcaster level (maximum +5)."]
+},
+{
+	"name" : "Life Leech (death)",
+	"wordType" : "effect",
+	"school" : "necromancy [evil]",
+	"level" : "magus 4, sorcerer/wizard 4, witch 4",
+	"duration" : "1 hour/level",
+	"savingThrow" : "Fortitude negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word takes 1d4 temporary negative levels. If these negative levels cause the subject to die, it rises as a ghost 1d4 days later unless buried in consecrated ground.",
+	"boost" : ["The negative levels from a wordspell with this effect word are permanent. Boosting this effect word increases its level by 5."]
+},
+{
+	"name" : "Life Touch (life)",
+	"wordType" : "effect",
+	"school" : "conjuration (healing)",
+	"level" : "cleric/oracle 8, witch 8",
+	"duration" : "instantaneous",
+	"savingThrow" : "none",
+	"spellResistance" : "yes (harmless)",
 	"targetRestrictions" : "",
+	"description" : "This effect word functions as revive, but it can be used on a creature that has been dead for up to 1 day per caster level. The creature is restored with half its original hit points, and its body does not need to be whole (just a piece of the creature is required). Any parts of the creature that were missing before its death are not restored by this effect word. The creature gains only one permanent negative level from being restored by this effect word, and this negative level fades after 24 hours (although it can be removed early as normal). The creature retains all of the prepared spells and slots it had when it died.",
+	"boost" : []
+},
+{
+	"name" : "Lift (gravity)",
+	"wordType" : "effect",
+	"school" : "transmutation",
+	"level" : "bard 0, magus 0, sorcerer/wizard 0, summoner 0",
+	"duration" : "concentration",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Personal",
+	"description" : "This effect word grants the caster the ability to lift and move nonmagical objects weighing up to 5 pounds at a distance of up to 25 feet + 5 feet per two levels of the caster. Objects moved by this effect can be moved up to 15 feet per round and cannot be used to make attacks.",
+	"boost" : []
+},
+{
+	"name" : "Lightning Blast (electricity)",
+	"wordType" : "effect",
+	"school" : "evocation [electricity]",
+	"level" : "druid 3, magus 3, sorcerer/ wizard 3, witch 3",
+	"duration" : "instantaneous",
+	"savingThrow" : "Reflex half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "This effect word deals 1d6 points of electricity damage per caster level (maximum 10d6)",
 	"description" : "",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Locate (divination)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "divination",
+	"level" : "bard 6, cleric/oracle 6, druid 6, inquisitor 6, witch 6",
+	"duration" : "10 minutes/level",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Personal",
+	"description" : "The caster of a wordspell with this effect word can name any location she has visited before or any object she has held before. For the duration of this wordspell, she always knows the direction of the named location or object. The direction is always the swiftest path to travel, leading her perfectly through mazes or other obstacles by the method the wordcaster is currently traveling, irrespective of danger.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Lock Ward (binding)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "abjuration",
+	"level" : "sorcerer/wizard 1",
+	"duration" : "permanent",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word causes one unattended object to close, such as a door, chest, or book. If the object possesses a lock, the object is also locked. If the wordspell includes other effect words, the effects of those words are suspended until a creature other than the wordcaster attempts to unlock or otherwise open the object. That creature becomes the target of the other effect words, as if those effect words had the selected target word. Only consider the other effect words when determining the duration of this secondary effect.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Moderate Cure (healing)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "conjuration (healing)",
+	"level" : "alchemist 2, bard 2, cleric/oracle 2, druid 3, inquisitor 2, paladin 3, ranger 3, witch 2",
+	"duration" : "instantaneous",
+	"savingThrow" : "Will half (harmless) or Will half",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Personal, Selected",
+	"description" : "The target of a wordspell with this effect word is cured of 2d6 points of damage + 1 point per caster level (maximum +10). Undead are damaged by this effect word, but can attempt a Will save for half damage and spell resistance as normal.",
+	"boost" : ["The target is cured of 2d8 points of damage + 1 point per caster level (maximum +10)."]
+},
+{
+	"name" : "Moderate Wound (wounding)",
+	"wordType" : "effect",
+	"school" : "conjuration (healing)",
+	"level" : "cleric/oracle 2, inquisitor 2, witch 2",
+	"duration" : "instantaneous",
+	"savingThrow" : "Will half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word takes 2d6 points of damage + 1 point per wordcaster level (maximum +10). Undead are instead healed by this wordspell and do not receive a saving throw or spell resistance.",
+	"boost" : ["The target takes 2d8 points of damage + 1 point per caster level (maximum +10)"]
+},
+{
+	"name" : "Monstrous Form (change)",
+	"wordType" : "effect",
+	"school" : "transmutation (polymorph)",
+	"level" : "alchemist 5, druid 5, magus 5, sorcerer/wizard 5",
+	"duration" : "1 minute/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Personal",
+	"description" : "This effect word functions as bestial form except that the target of this wordspell receives a +6 size bonus. In addition to those benefits available in altered form and bestial form, the target can select from the following: a burrow speed of 30 feet, blindsense out to a range of 30 feet, constrict (dealing the same damage as the grab attack + the target’s Str modifier), ferocity, resist 20 against one energy type, or a +4 natural armor bonus.",
+	"boost" : ["The target receives four benefits instead of three.", "This wordspell can use the selected target word. Boosting this effect word increases its level by 1."]
+},
+{
+	"name" : "Nature's Calm (animal)",
+	"wordType" : "effect",
+	"school" : "enchantment (charm) [mind-affecting]",
+	"level" : "druid 1, ranger 1, witch 1",
+	"duration" : "1 min/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word becomes calm and docile. Though the target will not attack while subject to this effect, the wordspell immediately ends if the target is attacked. Creatures affected by this effect word do not flee, but they are not helpless. This effect word only affects creatures of the animal or magical beast type, although magical beasts receive a +4 bonus on the saving throw.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Nature's Command (animal)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "enchantment (charm) [mind-affecting]",
+	"level" : "druid 4, ranger 4, summoner 5, witch 4",
+	"duration" : "1 round/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word obeys any simple commands given by the caster. These commands are sent through a mental link that does not require speech, but they must be able to be understood by the target. The target ignores any commands that are suicidal or self-destructive. A wordspell with this effect word only affects creatures of the animal or magical beast type, although magical beasts receive a +4 bonus on the saving throw.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Negation (dispelling)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "abjuration",
+	"level" : "cleric/oracle 8, sorcerer/wizard 6",
+	"duration" : "1 round/level",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Burst",
+	"description" : "This effect word creates an area in which magic does not function. All magic effects are suppressed while inside the area. As a result, this word cannot be combined with other effect words. Magic effects cannot cross through the area. Time spent within the field counts against the duration of the suppressed effects. Summoned and incorporeal creatures cannot enter the area and are immediately forced to the nearest edge if inside the area when it forms. Objects still maintain their function while in the area, so a sword still cuts, even if it loses its magical properties.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Paralyze Creature (binding)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "enchantment (compulsion) [mind-affecting]",
+	"level" : "bard 4, druid 4, inquisitor 4, sorcerer/wizard 5, summoner 5, witch 5",
+	"duration" : "1 round/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word functions as the paralyze humanoid word except that it can affect creatures of any type.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Paralyze Humanoid (binding)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "enchantment (compulsion) [mind-affecting]",
+	"level" : "bard 2, cleric/oracle 2, inquisitor 2, sorcerer/wizard 3, witch 2",
+	"duration" : "1 round/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word is paralyzed and cannot move. It is aware and can breathe normally, but cannot take any actions. At the end of each of the creature's turns, it can attempt a new saving throw to end the effect. Flying creatures that rely on wings to fly fall, and swimmers cannot swim and may drown. Wordspells with this effect word only affect creatures of the humanoid type.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Perfect Form (body)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "transmutation",
+	"level" : "alchemist 4, bard 4, cleric/oracle 4, druid 4, magus 4, sorcerer/wizard 4, summoner 4",
+	"duration" : "1 round/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Personal, Selected",
+	"description" : "The target of a wordspell with this effect word receives a +4 enhancement to Strength, Dexterity, and Constitution.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Permanent Paralysis (binding)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "enchantment (compulsion) [mind-affecting]",
+	"level" : "sorcerer/wizard 8, summoner 6, witch 8",
+	"duration" : "permanent",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word functions as the paralyze humanoid except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this spell is failed as well, the effect of the word can only be undone with greater dispel magic, miracle, or wish.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Predict (time)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "divination",
+	"level" : "cleric/oracle 2, witch 2",
+	"duration" : "instantaneous",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Personal",
+	"description" : "The target of a wordspell with this effect word can look into the future of one particular action that will happen within the next hour and determine whether or not it is likely to have good or bad results. This prediction is not guaranteed; there is only a 70% chance of receiving an accurate prediction + 1% per caster level. If this check fails, the results are incorrect. The only information the target receives is 'weal' for a good outcome, 'woe' for a bad outcome, or both for outcomes that are both good and bad, or that are or neutral in regard to the caster. Additional castings concerning the same course of action always reveal the same results.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Purify (life)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "conjuration (healing)",
+	"level" : "alchemist 4, bard 4, cleric/oracle 4, druid 4, inquisitor 4, paladin 4, ranger 4",
+	"duration" : "instantaneous",
+	"savingThrow" : "none",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Personal, Selected",
+	"description" : "When a wordspell with this effect word is cast, the wordcaster chooses one type of affliction: curses, diseases, or poisons. The target of a wordspell with this effect word receives a new saving throw to immediately end all such afflictions of the chosen type currently affecting the target. The DC of this save is equal to the original DC of the affliction. The target must roll a saving throw for each affliction individually. If the affliction does not allow a saving throw, this effect word cannot remove that affliction. Alternatively, a wordspell with this effect word can be used to remove 1d4 temporary negative levels possessed by the target, or 1 permanent negative level.",
 	"boost" : []
 },
 {
-	"name" : "",
+	"name" : "Radiance (illumination)",
 	"wordType" : "effect",
-	"school" : "",
-	"level" : "",
-	"duration" : "",
-	"savingThrow" : "",
-	"spellResistance" : "",
-	"targetRestrictions" : "",
-	"description" : "",
+	"school" : "evocation",
+	"level" : "bard 1, cleric/oracle 1, druid 1, inquisitor 1, magus 1, sorcerer/wizard 1, witch 1",
+	"duration" : "10 minutes/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Burst (emanation)",
+	"description" : "The area of a wordspell with this effect word radiates light like a torch for the duration, shedding normal light in the wordspell's area and increasing the light level for an additional 20 feet by one step, up to normal light.",
 	"boost" : []
+},
+{
+	"name" : "Repulse (gravity)",
+	"wordType" : "effect",
+	"school" : "transmutation",
+	"level" : "cleric/oracle 9, druid 9, sorcerer/wizard 8, summoner 6, witch 8",
+	"duration" : "1 round/level (D)",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Burst (emanation)",
+	"description" : "This effect word creates an area of impossible gravity, where all creatures and objects not securely fastened to the ground fall away from the center of the burst, to its exterior edge. Creatures inside the area when it forms are immediately moved toward its nearest edge. If, because of an obstacle, they cannot reach the edge, they strike the barrier and take falling damage. While a wordspell with this effect word persists, objects cannot enter the area unless they possess the ability to fly. Any flying creatures that rely on wings and enter the area must immediately make a DC 25 Fly skill check or be repelled by the area, unable to enter this turn. Missile weapons that pass through this area automatically miss their target. The caster is immune to this effect and may enter the area freely.",
+	"boost" : ["The caster may designate a number of creatures equal to his level that are not affected by the wordspell."]
+},
+{
+	"name" : "Resist Arcana (dispelling)",
+	"wordType" : "effect",
+	"school" : "abjuration",
+	"level" : "alchemist 5, cleric/oracle 5, inquisitor 5, sorcerer/wizard 6, summoner 6",
+	"duration" : "1 minute/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "selected",
+	"description" : "The target of a wordspell with this effect word gains spell resistance equal to 12 + the caster's level.",
+	"boost" : []
+},
+{
+	"name" : "Revive (life)",
+	"wordType" : "effect",
+	"school" : "conjuration (healing)",
+	"level" : "cleric/oracle 5, druid 5, witch 5",
+	"duration" : "instantaneous",
+	"savingThrow" : "none",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word restores life to a living creature that has died within up to 1 hour per caster level. The soul of the target receives a clear image of the caster, and can choose not to return, causing the wordspell to fail. If the soul is willing, the target does not receive a saving throw. The target is restored to life with 1 hit point, unless another effect word adds to this total. In addition, the target loses 50% of any prepared spells or spell slots it had before it died (determined randomly). Coming back from the dead in this way is an ordeal, and the target gains three permanent negative levels from the experience (if the target does not have at least 4 Hit Dice, a wordspell with this effect word has no effect). While this effect word undoes any mortal wounds the target might possess, its body must otherwise be whole for the effect word to function. Any missing parts are still missing when the creature is restored. Normal poisons and diseases are cured as well, but magical afflictions remain. Undead creatures are unaffected by a wordspell with this effect word, as are the dead bodies of creatures that were undead. Constructs and outsiders cannot be restored to life by this effect word. Targets that died as a result of old age cannot be restored to life by this effect word.",
+	"boost" : []
+},
+{
+	"name" : "Rumble (destruction)",
+	"wordType" : "effect",
+	"school" : "evocation [earth]",
+	"level" : "cleric/oracle 8, druid 8",
+	"duration" : "1 round",
+	"savingThrow" : "see text",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Burst (emanation)",
+	"description" : "This effect word causes the ground within the area to shake and rumble, like an earthquake. Each creature in the area must make a Reflex save or be knocked prone and take 8d6 points of damage. If the creature makes its save, it takes half damage and is not knocked prone. Caves, cliffs, tunnels, and other natural surfaces collapse in this area, triggering a landslide and possibly burying creatures underneath. Structures take 100 points of damage from this effect, typically enough to cause wooden and masonry buildings to collapse, but not stone or reinforced masonry buildings. See page 429 of the Core Rulebook for more information on landslides and collapses.",
+	"boost" : []
+},
+{
+	"name" : "Sense Alignment (detection)",
+	"wordType" : "effect",
+	"school" : "divination",
+	"level" : "cleric/oracle 1, inquisitor 1, paladin 1",
+	"duration" : "concentration, up to 1 minute/level (D)",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Cone",
+	"description" : "This effect word detects one or more alignments. When cast, the wordcaster selects one of the following alignments: chaos, evil, good, or law. By concentrating, he can sense the presence and source of that alignment in the wordspell area. If the source is a creature with more than 25 Hit Dice, an outsider, cleric, or paladin with more than 4 Hit Dice, or a magic item or spell with a caster level greater than 16th, the caster knows that aura is strong.",
+	"boost" : ["The caster can select two alignments to detect. Boosting this effect word increases its level by 1.", "The caster can detect all four alignments (although this does not allow him to detect neutral objects or creatures). Boosting this effect word increases its level by 2."]
+},
+{
+	"name" : "Sense Hidden (detection)",
+	"wordType" : "effect",
+	"school" : "divination",
+	"level" : "alchemist 2, bard 2, cleric/oracle 2, inquisitor 2, sorcerer/wizard 2, summoner 2, witch 2",
+	"duration" : "concentration, up to 1 minute/level (D)",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Cone",
+	"description" : "This effect word allows the caster to see invisible creatures and objects. The caster can sense that the objects and creatures are hidden in this way, but he can still see them normally.",
+	"boost" : ["The caster can see through illusions, see the true form of polymorphed creatures and objects, and locate creatures protected by spells and effects that grant concealment. The caster also receives a +4 circumstance bonus on saves against illusion spells and effects. Boosting this effect word increases its level by 4."]
+},
+{
+	"name" : "Sense Magic (detection)",
+	"wordType" : "effect",
+	"school" : "divination",
+	"level" : "bard 0, cleric/oracle 0, druid 0, inquisitor 0, magus 0, sorcerer/wizard 0, summoner 0, witch 0",
+	"duration" : "concentration, up to 1 minute/level (D)",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Cone",
+	"description" : "A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make a Knowledge (arcana) skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using detect magic (see Spellcraft). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the Knowledge check to identify the school is unsuccessful.",
+	"boost" : []
+},
+{
+	"name" : "Sense Thoughts (detection)",
+	"wordType" : "effect",
+	"school" : "divination",
+	"level" : "alchemist 2, bard 2, inquisitor 2, sorcerer/wizard 2, summoner 2, witch 2",
+	"duration" : "concentration, up to 1 minute/level (D)",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Cone",
+	"description" : "This effect word allows the caster to detect the surface thoughts of creatures in the target area. By focusing on one creature in the area, the caster can read the surface thoughts of that creature. The caster must be otherwise aware of the creature to focus on it. A Will save prevents the caster from reading the creature's thoughts for the duration of a wordspell with this effect word. If the target has an Intelligence score at least 10 higher than the caster and it makes its Will save, the target can instead read the surface thoughts of the caster for the duration of the of the wordspell with this effect word, while the wordcaster receives no insight. Each round, the caster can focus on a new creature if he desires.",
+	"boost" : []
+},
+{
+	"name" : "Servitor (summoning)",
+	"wordType" : "effect",
+	"school" : "conjuration (summoning)",
+	"level" : "bard 1, cleric/oracle 1, druid 1, ranger 1, sorcerer/wizard 1, summoner 1, witch 1",
+	"duration" : "1 round/level",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Selected",
+	"description" : "A wordspell with this effect word summons a creature to do your bidding. This creature attacks your opponents to the best of its ability each turn if able. If you can communicate with the creature, you can direct its attacks or instruct it to perform other actions. A wordspell with this effect word summons one creature from the 1st-level list on Table: Summon Monster. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the 1st-level list on Table: Summon Nature's Ally.",
+	"boost" : []
+},
+{
+	"name" : "Shock Arc (electricity)",
+	"wordType" : "effect",
+	"school" : "evocation [electricity]",
+	"level" : "magus 1, sorcerer/wizard 1, witch 1",
+	"duration" : "instantaneous",
+	"savingThrow" : "Reflex half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "",
+	"description" : "This effect word deals 1d4 points of electricity damage per caster level (maximum 5d4).",
+	"boost" : []
+},
+{
+	"name" : "Simple Order (command)",
+	"wordType" : "effect",
+	"school" : "enchantment (compulsion) [language-dependent, mind affecting]",
+	"level" : "bard 1, cleric/oracle 1, inquisitor 1, sorcerer/wizard 1, witch 1",
+	"duration" : "1 round",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word must follow one of five simple commands to the best of its ability on its next turn. If the target cannot take the specified action on its next turn, this effect of the wordspell fails. The possible commands are as follows. Approach: The target must move toward the caster as quickly and directly as possible, provoking attacks of opportunity as normal. The target avoids obvious hazards, such as fire, pits, or traps that it is aware of (other creatures do not count). Drop: The target drops whatever it is holding and does not pick up anything this round. It otherwise acts normally. Fall: The target falls to the ground and remains prone until its next turn. It can otherwise act normally. Flee: The target moves away from the caster as quickly and directly as possible. This otherwise functions as approach. Halt: The target does not move and takes no other action on its turn, although it is not considered flat-footed or helpless.",
+	"boost" : ["This wordspell can use any target word. Boosting this effect word increases its level by 3."]
+},
+{
+	"name" : "Slay (death)",
+	"wordType" : "effect",
+	"school" : "necromancy [death, evil]",
+	"level" : "cleric/oracle 6, druid 7, sorcerer/wizard 6, witch 6",
+	"duration" : "instantaneous",
+	"savingThrow" : "Fortitude partial",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word takes 10 points of damage per caster level, to a maximum of 150 points of damage. If this save is successful, the target instead takes 3d6 points of damage + 1 per caster level (maximum +15). A wordspell with this effect word only affects living creatures.",
+	"boost" : []
+},
+{
+	"name" : "Soar (flight)",
+	"wordType" : "effect",
+	"school" : "transmutation",
+	"level" : "alchemist 3, cleric/oracle 4, magus 3, sorcerer/wizard 3, summoner 3, witch 3",
+	"duration" : "1 minute/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word gains a fly speed of 60 feet with average maneuverability (40 feet if encumbered or wearing medium or heavy armor). The target also receives an insight bonus on Fly skill checks equal to 1/2 the caster's level.",
+	"boost" : []
+},
+{
+	"name" : "Soothing Touch (healing)",
+	"wordType" : "effect",
+	"school" : "conjuration (healing)",
+	"level" : "cleric/oracle 0, druid 0, inquisitor 0, paladin 1, witch 0",
+	"duration" : "instantaneous",
+	"savingThrow" : "Will half (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Personal, Selected",
+	"description" : "If the target of a wordspell with this effect word is dying, it is automatically stabilized.",
+	"boost" : ["The target of a wordspell with this effect word is cured of the shaken, sickened, or fatigued condition (caster's choice). Boosting this effect word increases its level by 1."]
+},
+{
+	"name" : "Sound Blast (sonic)",
+	"wordType" : "effect",
+	"school" : "evocation [sonic]",
+	"level" : "bard 4, magus 4, sorcerer/wizard 4",
+	"duration" : "instantaneous",
+	"savingThrow" : "Reflex half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "",
+	"description" : "This effect word deals 1d6 points of sonic damage per caster level (maximum 10d6).",
+	"boost" : []
+},
+{
+	"name" : "Spark (electricity)",
+	"wordType" : "effect",
+	"school" : "evocation [electricity]",
+	"level" : "druid 0, magus 0, sorcerer/wizard 0, witch 0",
+	"duration" : "instantaneous",
+	"savingThrow" : "Reflex half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "",
+	"description" : "This effect word deals 1d4 points of electricity damage. If the wordspell with this effect word has only a single target, it requires a melee or ranged touch attack and does not allow a saving throw.",
+	"boost" : []
+},
+{
+	"name" : "Spook (fear)",
+	"wordType" : "effect",
+	"school" : "necromancy [fear, mind-affecting]",
+	"level" : "bard 1, cleric/oracle 1, inquisitor 1, sorcerer/wizard 1, witch 1",
+	"duration" : "1d4 rounds",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word causes the target to become frightened for the duration. This word has no effect on targets with 5 or more Hit Dice.",
+	"boost" : []
+},
+{
+	"name" : "Stone Wall (wall)",
+	"wordType" : "effect",
+	"school" : "conjuration (creation)",
+	"level" : "cleric/oracle 5, druid 6, magus 5, sorcerer/wizard 5, summoner 5",
+	"duration" : "1 round/level",
+	"savingThrow" : "none",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Barrier",
+	"description" : "This effect word creates a vertical wall of solid stone. The wall must be a smooth, uninterrupted surface when formed. The wall is 1 inch thick per caster level, has hardness 8, and has 15 hit points per inch of thickness. The wall blocks line of sight.",
+	"boost" : []
+},
+{
+	"name" : "Storm Master (weather)",
+	"wordType" : "effect",
+	"school" : "transmutation",
+	"level" : "cleric/oracle 7, druid 7, sorcerer/wizard 7, witch 7",
+	"duration" : "1 hour/level (D)",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Personal",
+	"description" : "A word spell with this effect word grants the target the ability to alter the weather around it in a 1-mile radius. The target can change the conditions by shifting the weather one step at a time up or down a scale of weather effects. The scale is as follows: freezing cold, blizzard, snow, cold rain, cold wind, calm, warm wind, warm rain, thunderstorm, tornado, extreme heat. Each change takes 10 minutes to fully take effect. Thus if the weather currently features warm wind and the caster wanted to change that to cold wind, she would need to first change the weather to calm, and then to cold wind. The target cannot control the specifics of the weather, merely what type of weather is occurring (the target cannot, for example, make lightning strike a house, but it can cause lighting to strike within the area).",
+	"boost" : ["Each change in the weather takes only 5 minutes."]
+},
+{
+	"name" : "Stun (power)",
+	"wordType" : "effect",
+	"school" : "enchantment (compulsion) [mind-affecting]",
+	"level" : "sorcerer/wizard 8",
+	"duration" : "varies, see text",
+	"savingThrow" : "none",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word causes a living creature to become stunned, whether or not the creature can hear the wordspell with this effect word. This effect word's duration depends on the target's current hit point total. Any creature that currently has 151 hit points or more is unaffected. HP: 50 or less - 4d4 rounds, HP: 51-100 - 2d4 rounds, HP: 101-150 - 1d4 rounds.",
+	"boost" : []
+},
+{
+	"name" : "Sunshine (illumination)",
+	"wordType" : "effect",
+	"school" : "evocation",
+	"level" : "bard 3, cleric/oracle 3, druid 3, paladin 3, sorcerer/wizard 3",
+	"duration" : "10 minutes/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Burst (emanation)",
+	"description" : "The target of a wordspell with this effect word radiates shining white light for the duration of the spell, shedding bright light in the wordspell's area and increasing the light level for an additional 30 feet by one step, up to bright light. Creatures that take penalties in bright light take those penalties while in the wordspell's area, but it is not true sunlight and does not damage or destroy creatures vulnerable to real sunlight.",
+	"boost" : []
+},
+{
+	"name" : "Suppress (dispelling)",
+	"wordType" : "effect",
+	"school" : "abjuration",
+	"level" : "bard 2, cleric/oracle 2, druid 2, inquisitor 2, magus 2, paladin 2, sorcerer/wizard 2, summoner 2, witch 2",
+	"duration" : "1 minute/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Selected",
+	"description" : "The caster of a wordspell with this effect word selects one spell effect that affects a willing target. The caster must then make a caster level check with a DC of 11 + the caster level of the spell effect. If successful, that spell effect is suppressed for the duration of this spell. If the suppressed spell has a limited duration, that duration continues to expire while this spell is in effect.",
+	"boost" : ["The caster can target creatures that are not willing. The targets receive a saving throw to negate this effect word, and the caster must overcome the target's spell resistance. Boosting this effect word increases its level by 1."]
+},
+{
+	"name" : "Terror (fear)",
+	"wordType" : "effect",
+	"school" : "necromancy [fear, mind-affecting]",
+	"level" : "bard 3, inquisitor 4, sorcerer/wizard 4, witch 4",
+	"duration" : "1 round/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "Yes",
+	"targetRestrictions" : "",
+	"description" : "This effect word causes the targets to become frightened for the duration. A target that succeeds at its saving throw is shaken for 1 round.",
+	"boost" : []
+},
+{
+	"name" : "Thunder Strike (electricity)",
+	"wordType" : "effect",
+	"school" : "evocation [electricity]",
+	"level" : "druid 8, sorcerer/wizard 8, witch 9",
+	"duration" : "instantaneous",
+	"savingThrow" : "Reflex half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "",
+	"description" : "This effect word deals 1d8 points of electricity damage per caster level (maximum 20d8). In addition, a target that fails its saving throw against this damage is deafened for 1 round per caster level.",
+	"boost" : []
+},
+{
+	"name" : "Torture (pain)",
+	"wordType" : "effect",
+	"school" : "necromancy",
+	"level" : "bard 3, inquisitor 3, sorcerer/wizard 3, witch 3",
+	"duration" : "1 round/level",
+	"savingThrow" : "Fortitude negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "",
+	"description" : "The targets of a wordspell with this effect word are nauseated; they receive another save at the end of their turn to end this effect.",
+	"boost" : []
+},
+{
+	"name" : "Translate (language)",
+	"wordType" : "effect",
+	"school" : "divination",
+	"level" : "alchemist 3, bard 2, cleric/oracle 4, sorcerer/wizard 3, witch 3",
+	"duration" : "10 minutes/level",
+	"savingThrow" : "Will negates (harmless)",
+	"spellResistance" : "yes (harmless)",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word can read, write, speak, and understand one particular language, chosen by the caster. The language can be any that the caster is aware of, even racial languages.",
+	"boost" : []
+},
+{
+	"name" : "True Fire (fire)",
+	"wordType" : "effect",
+	"school" : "evocation [fire]",
+	"level" : "druid 9, sorcerer/wizard 9",
+	"duration" : "instantaneous",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word deals 1d6 points of fire damage per caster level (maximum 20d6).",
+	"boost" : []
+},
+{
+	"name" : "Undeath (death)",
+	"wordType" : "effect",
+	"school" : "necromancy [evil]",
+	"level" : "cleric/oracle 2, sorcerer/wizard 3",
+	"duration" : "instantaneous",
+	"savingThrow" : "none",
+	"spellResistance" : "no",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word can only target the corpses of dead creatures. These creatures rise as either skeletons or zombies, as decided by the caster. These undead follow the caster's commands to the best of their limited ability. They remain undead creatures until destroyed. The caster can create at most 2 Hit Dice worth of undead per caster level with each casting of a wordspell with this effect word. The caster can control no more than 4 HD per caster level of undead creatures. If additional undead are created, the caster chooses which undead to lose control of to get back under the limit.",
+	"boost" : []
+},
+{
+	"name" : "Unfetter (gravity)",
+	"wordType" : "effect",
+	"school" : "transmutation",
+	"level" : "druid 7, sorcerer/wizard 6",
+	"duration" : "1 round/level (D)",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "This effect word makes the bonds of gravity work in reverse for the targets, causing them to fall up for the duration. They treat up as down and down as up. This can cause the creatures to take falling damage when they hit the ceiling or another surface above them. This effect applies to the targets and all of their gear, so long as it remains on their person. Thrown and missile weapons interact with gravity normally, but the disorientation caused by unfetter means the target takes a -4 penalty on such attacks. When a wordspell with this effect word ends, the targets fall to the ground unless they have some means of staying aloft.",
+	"boost" : []
+},
+{
+	"name" : "Unmake (dispelling)",
+	"wordType" : "effect",
+	"school" : "abjuration",
+	"level" : "bard 5, cleric/oracle 5, druid 5, inquisitor 6, magus 6, sorcerer/wizard 5, summoner 6, witch 5",
+	"duration" : "instantaneous",
+	"savingThrow" : "Will partial",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The caster of a wordspell with this effect word unravels all of the magic effects affecting the target of the wordspell with this effect word. The caster must make a caster level check. The result of this check is compared to the caster level + 11 of every spell affecting the target. If successful, that spell effect immediately ends. The target can make a Will saving throw. If successful, this wordspell only attempts to unmake the highest-level spell affecting the target.",
+	"boost" : []
+},
+{
+	"name" : "Unseen Shell (concealing)",
+	"wordType" : "effect",
+	"school" : "illusion (glamer)",
+	"level" : "bard 4, sorcerer/wizard 4, witch 4",
+	"duration" : "1 minute/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Burst (emanation)",
+	"description" : "When cast, a wordspell with this effect word makes any objects or creatures designated by the caster within the area invisible so long as they remain in the area and do not attack or otherwise take offensive actions. All possessions carried by the creatures remain invisible as long as they remain in the area, so an arrow fired from a bow would become visible when it leaves the area.",
+	"boost" : ["The target does not become visible if it attacks or takes an offensive action. Boosting this effect word increases its level by 2."]
+},
+{
+	"name" : "Wild Lure (animal)",
+	"wordType" : "effect",
+	"school" : "enchantment (charm) [mind-affecting]",
+	"level" : "druid 2, ranger 2, witch 2",
+	"duration" : "1 minute/level",
+	"savingThrow" : "Will negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Selected",
+	"description" : "The target of a wordspell with this effect word treats the caster as a trusted ally. The creatures will defend the caster and will not attack her allies while this effect persists. If at any time the target of a wordspell with this effect word is attacked by the wordcaster or her allies, the wordspell's duration ends immediately. This effect word only affects creatures of the animal or magical beast type, although magical beasts receive a +4 bonus on the saving throw.",
+	"boost" : []
+},
+{
+	"name" : "Wind Blast (weather)",
+	"wordType" : "effect",
+	"school" : "evocation [air]",
+	"level" : "druid 2, sorcerer/wizard 3",
+	"duration" : "1 round",
+	"savingThrow" : "Fortitude negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Line",
+	"description" : "This effect word creates a blast of air that can knock over or hinder those in its path. When a wordspell with this effect word is cast, any Large or smaller creature within the area of the wordspell must make a Fortitude save or be knocked prone and pushed back 10 feet. Any creature wishing to move through the line of air must make a DC 20 Strength check. Failure means the creature wastes 5 feet of movement, but is otherwise unhindered and can continue to move (so long as it does not move through the line of air). The DC increases to 30 if the creature attempts to move toward the source of the wind. Flying creatures take a -4 penalty on saves and Strength checks made against this effect.",
+	"boost" : []
+},
+{
+	"name" : "Wind Wall (wall)",
+	"wordType" : "effect",
+	"school" : "evocation [air]",
+	"level" : "cleric/oracle 3, druid 3, magus 3, ranger 3, sorcerer/wizard 3, summoner 3",
+	"duration" : "1 round/level",
+	"savingThrow" : "none",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Barrier",
+	"description" : "This effect word creates a vertical wall of swirling wind. This wind does not obscure sight, but missile weapons that pass through the wall automatically miss (with the exception of large missiles, such as giant-thrown rocks and siege weapons). Creatures that pass through the wall treat it as difficult terrain and must make a DC 10 Strength check. Failure indicates that the creature cannot pass through the wall this round, but may try again in future rounds. Gases, gaseous breath weapons, and creatures in gaseous form cannot pass through the wall.",
+	"boost" : []
+},
+{
+	"name" : "Winter's Wrath (cold)",
+	"wordType" : "effect",
+	"school" : "evocation [cold]",
+	"level" : "druid 8, sorcerer/wizard 8",
+	"duration" : "1 round/level",
+	"savingThrow" : "Fortitude half",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "Burst",
+	"description" : "A wordspell with this effect word creates an area of blizzardlike conditions. Anyone inside the area when it forms, and at the start of the caster's turn, takes 1d6 points of cold damage per caster level (maximum 20d6) and 1d4 points of Dexterity damage. A Fortitude save halves this damage and negates the Dexterity damage. Because of the heavy snow and winds, visibility is reduced to 5 feet inside the blizzard. Effects that deal fire damage do not harm anyone inside this blizzard unless they are of a level equal to or higher than the wordspell with this effect word.",
+	"boost" : []
+},
+{
+	"name" : "Wrack (pain)",
+	"wordType" : "effect",
+	"school" : "necromancy",
+	"level" : "bard 1, cleric/oracle 1, inquisitor 1, sorcerer/wizard 1, witch 1",
+	"duration" : "1 round/level",
+	"savingThrow" : "Fortitude negates",
+	"spellResistance" : "yes",
+	"targetRestrictions" : "",
+	"description" : "The targets of a wordspell with this effect word are sickened.",
+	"boost" : []
+},
+{
+	"name" : "Barrier",
+	"wordType" : "target",
+	"level" : "3",
+	"range" : "close (25 ft. + 5 ft./2 levels)",
+	"target" : "A wordspell with this target word creates a visible barrier that is 10 feet long per caster level and 10 feet high. Creatures touching or passing through the barrier are subject to the spell’s effect. The barrier does not hindercreatures passing through it unless noted in the spell effect. Creatures occupying the space of the barrier when it forms are subject to the spell’s effect. The wall is 1 foot wide and must be anchored on a solid surface. The wall must be straight when formed.",
+	"boost" : ["The wall is 20 feet long per caster level and up to 20 feet high. The wall can take on any shape desired by the caster, but it must remain a vertical surface."]
+},
+{
+	"name" : "Burst",
+	"wordType" : "target",
+	"level" : "1",
+	"range" : "close (25 ft. + 5 ft./2 levels)",
+	"target" : "A wordspell with this target word affects everything it catches in a 10-foot-radius burst. Some effect words that use the burst target word are instead emanations, taking up the same area as the burst. These effect words typically have a longer duration and cannot be moved once created. They are noted by the word “emanation” in parentheses after the burst target restriction.",
+	"boost" : ["The spell affects everything in a 20-foot-radius burst. Its range increases to medium (100 ft. + 10 ft./level). Boosting this target word increases its level by 2.", "The spell affects everything in a 40-foot-radius burst. Its range increases to long (400 ft. + 40 ft./level). Boosting this target word increases its level by 4."]
+},
+{
+	"name" : "Cone",
+	"wordType" : "target",
+	"level" : "0",
+	"range" : "10 ft.",
+	"target" : "A wordspell with this target word affects everything in a coneshaped burst.",
+	"boost" : ["The range increases to 20 feet. Boosting this target word increases its level by 2.", "The range increases to 40 feet. Boosting this target word increases its level by 4."]
+},
+{
+	"name" : "Line",
+	"wordType" : "target",
+	"level" : "1",
+	"range" : "20ft",
+	"target" : "A wordspell with this target word affects everything in a 20-foot line.",
+	"boost" : ["The range increases to 60 feet. Boosting this target word increases its level by 1.", "The range increases to 120 feet. Boosting this target word increases its level by 2."]
+},
+{
+	"name" : "Personal",
+	"wordType" : "target",
+	"level" : "0",
+	"range" : "no range",
+	"target" : "A wordspell with this target word only affects the caster. Effect words that are restricted to this word can be combined with other effect words, but the caster is the only target, regardless of other target possibilities.",
+	"boost" : []
+},
+{
+	"name" : "Selected",
+	"wordType" : "target",
+	"level" : "0",
+	"range" : "close (25 ft. + 5 ft./2 levels)",
+	"target" : "A wordspell with this target word affects a single target within range. If the wordspell deals energy damage, this word creates a ray that requires a ranged touch attack to hit, or it can be used as a melee touch attack with no range (decided by the wordcaster when the wordspell is cast). If it is used as a melee touch attack and the attack misses, the wordcaster can hold the charge and try again with subsequent attacks.",
+	"boost" : ["Instead of one target, the wordspell affects up to one target per caster level, no two of which can be more than 30 feet apart. The range increases to medium (100 ft. + 10 ft./ level). If used with an effect word that deals energy damage, the wordcaster must make multiple ray attacks for each target (they cannot be made as melee touch attacks). This boosted target word increases the level of all the effect words in the spell by 3 levels."]
+},
+{
+	"name" : "Boost",
+	"wordType" : "meta",
+	"level" : "0",
+	"description" : "This meta word allows an effect or target word to use its boosted description. Some boosted descriptions increase the level of the effect word or target word, and can only be used if the wordspell is of a high enough level to accommodate the new level. If a word has more than one boosted description, the caster can choose which to use (but never more than one per word). This meta word can be applied to a spell multiple times—once to the target word and once for each effect word."
+},
+{
+	"name" : "Careful",
+	"wordType" : "meta",
+	"level" : "1",
+	"description" : "A wordspell with this meta word does not require a somatic component."
+},
+{
+	"name" : "Distant",
+	"wordType" : "meta",
+	"level" : "0",
+	"description" : "This word increases a wordspell’s range, as determined by its target word. If the word has a close range, it increases to medium (100 ft. + 10 ft./level). If the word has a medium range, it increases to long (400 ft. + 40 ft./level). This word has no effect on target words with a range other than close or medium."
+},
+{
+	"name" : "Irresistible",
+	"wordType" : "meta",
+	"level" : "5",
+	"description" : "Targets of a wordspell with this meta word must roll their saving throws twice and take the worse result. This meta word increases the level of all the effect words in the wordspell that allow a saving throw by two levels."
+},
+{
+	"name" : "Lengthy",
+	"wordType" : "meta",
+	"level" : "0",
+	"description" : "A wordspell with this meta word doubles its duration. This meta word has no affect on effect words with a duration of instantaneous. The effect of this word does not stack with the effect of the Extend Spell feat."
+},
+{
+	"name" : "Manifestation",
+	"wordType" : "meta",
+	"level" : "4",
+	"description" : "This word changes the saving throw type of certain effect words used in this spell. If the effect word requires a Will saving throw, it instead requires a Fortitude saving throw. This change does not affect whether or not a successful save negates the effect, reduces it, or has some other effect; it simply alters the type of saving throw required."
+},
+{
+	"name" : "Mind Warp",
+	"wordType" : "meta",
+	"level" : "4",
+	"description" : "This word changes the saving throw type of certain effect words used in this spell. If the effect word requires a Fortitude saving throw, it instead requires a Will saving throw. This change does not affect whether or not a successful save negates the effect, reduces it, or has some other effect; it simply alters the type of saving throw required."
+},
+{
+	"name" : "Penetrating",
+	"wordType" : "meta",
+	"level" : "5",
+	"description" : "The caster of a wordspell containing this meta word can roll twice to overcome any spell resistance the targets might possess, taking the better result. This meta word increases the level of all of the effect words in the spell that allow for spell resistance by one level. It can modify a target word or an effect word."
+},
+{
+	"name" : "Quiet",
+	"wordType" : "meta",
+	"level" : "1",
+	"description" : "A wordspell with this meta word does not require a verbal component. This meta word can modify a target word or an effect word."
+},
+{
+	"name" : "Simple",
+	"wordType" : "meta",
+	"level" : "1",
+	"description" : "A wordspell with this meta word does not require a material component. This meta word can modify a target word or an effect word."
 },
